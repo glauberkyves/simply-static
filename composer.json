@@ -1,8 +1,10 @@
 {
-  "name": "patrickposner/simply-static",
+  "name": "r2comvc/simply-static-pro",
   "description": "A simple WordPress static site generator",
   "type": "wordpress-plugin",
+  "version": "1.0",
   "require": {
+    "composer/installers": "~1.0",
     "algolia/algoliasearch-client-php": "^3.4",
     "voku/html-min": "^4.5",
     "tedivm/jshrink": "1.6.8",
